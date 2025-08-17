@@ -12,9 +12,5 @@ You wander into the forest, find random items, fight goblins, collect gold, and 
 - Gold collection and survival mechanics.
 - Infinite loop until your health reaches **0**.
 
----
 
-## 🎮 How to Play
-1. Clone this repository:
-   ```bash
    
